@@ -8,7 +8,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 10vh;
+    min-height: 50vh;
     background-color: #ecf0f3;
     background-image: url(photo-1627398242454-45a1465c2479.jpg);
     background-position: center;
@@ -54,10 +54,10 @@ body{
                  3px 3px 5px #ceced1;  
 }
 .wrapper .img-area{
-    height: 400px;
-    width: 400px;
+    height: 700px;
+    width: 700px;
     border-radius: 50%;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
 }
