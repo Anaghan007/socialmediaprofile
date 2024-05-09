@@ -8,7 +8,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 200vh;
     background-color: #ecf0f3;
     background-image: url(photo-1627398242454-45a1465c2479.jpg);
     background-position: center;
