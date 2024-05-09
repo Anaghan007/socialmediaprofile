@@ -54,8 +54,8 @@ body{
                  3px 3px 5px #ceced1;  
 }
 .wrapper .img-area{
-    height: 50px;
-    width: 50px;
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
     display: flex;
     align-items: center;
