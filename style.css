@@ -94,6 +94,7 @@ body{
     margin: 0 5px;
     border-radius: 50%;
     position: relative;
+    font-size: 40px;
 }
 .social-icons a:hover:before,
 .buttons button:hover::before{
