@@ -125,16 +125,19 @@ body{
     color: #4267B2;
 }
 .social-icons a.instagram i{
-    color: #e1306c;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .social-icons a.whatsapp i{
-    color: green;
+    color: #25D366;
 }
 .social-icons a.snapchat i{
-    color: dark yellow;
+    color: #020202;
 }
 .social-icons a.telegram i{
-    color: lightblue;
+    color: #0088cc;
 }
 .wrapper .buttons{
     display: flex;
