@@ -133,6 +133,9 @@ body{
 .social-icons a.snapchat i{
     color: dark yellow;
 }
+.social-icons a.telegram i{
+    color: blue;
+}
 .wrapper .buttons{
     display: flex;
     width: 100%;
